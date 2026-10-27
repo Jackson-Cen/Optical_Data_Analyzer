@@ -1,0 +1,23 @@
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Python 虚拟环境
+venv/
+.venv/
+
+# PyInstaller 打包文件
+build/
+dist/
+*.spec
+
+# PyCharm 配置
+.idea/
+
+# 程序运行生成的结果
+analysis_result.csv
+intensity_distribution.png
+
+# 日志文件
+*.log
